@@ -1,4 +1,4 @@
-This work introduces an interactive system that couples text‑to‑image generation with region‑aware editing and semantic analysis. Users generate scenes, run object detection, and apply natural‑language edits (e.g., “make the person old”) in a closed loop. Attribute classifiers and probability plots then quantify changes such as young/old or safe/dangerous, turning each edit into a measurable intervention on the model’s latent behavior.
+This work introduces an interactive system that couples text‑to‑image generation with region‑aware editing and semantic analysis. Users generate scenes, run OWL‑ViT object detection, and automatically crop each bounding box for separate evaluation. Natural‑language edits (e.g., “make the person old”) are applied in a closed loop, while attribute classifiers and probability plots quantify changes such as young/old or safe/dangerous for every detected instance, turning each edit into a measurable intervention on the model’s latent behavior.
 
 -----------------------------
 <img width="3298" height="1933" alt="cv1" src="https://github.com/user-attachments/assets/a2e4bebb-733a-4207-87fd-216be45963f1" />
