@@ -29,9 +29,10 @@ structured prompt design improves the model’s interpretive robustness across s
 
 **Figure 3: A tiger caged in zoo is detected as safe (left) vs a Tiger attacking in jungle is detected as Dangerous (right)**
 
+-------------------------
 <p float="left">
-<img width="1566" height="1397" alt="cv7" src="https://github.com/user-attachments/assets/b0a95714-36fa-437c-bddd-0d92a0e03a99" width="49%" />
-<img width="1555" height="1366" alt="cv8" src="https://github.com/user-attachments/assets/056633ac-35fc-483c-947c-fc018ea723cc" width="49%" />
+  <img width="1566" height="1397" alt="cv7" src="https://github.com/user-attachments/assets/b0a95714-36fa-437c-bddd-0d92a0e03a99" width="49%" />
+  <img width="1555" height="1366" alt="cv8" src="https://github.com/user-attachments/assets/056633ac-35fc-483c-947c-fc018ea723cc" width="49%" />
 </p>
 
 -------------------------
