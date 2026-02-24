@@ -249,7 +249,7 @@ def load_models():
     gemini_api = GeminiAPI()
     
     # Use environment variable for API key (for Hugging Face deployment)
-    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyBCBWt2SQD36Cvh0E-ytt-roVF1If6kNOc")
+    api_key = os.environ.get("GEMINI_API_KEY", "Enter Your Own")
     if api_key:
         gemini_api.set_api_key(api_key)
         print("✅ Gemini API key set")
