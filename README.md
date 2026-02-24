@@ -31,8 +31,10 @@ structured prompt design improves the model’s interpretive robustness across s
 
 -------------------------
 <p float="left">
-  <img width="1566" height="1397" alt="cv7" src="https://github.com/user-attachments/assets/b0a95714-36fa-437c-bddd-0d92a0e03a99" width="49%" />
-  <img width="1555" height="1366" alt="cv8" src="https://github.com/user-attachments/assets/056633ac-35fc-483c-947c-fc018ea723cc" width="49%" />
+  <img src="https://github.com/user-attachments/assets/b0a95714-36fa-437c-bddd-0d92a0e03a99" alt="cv7" width="49%" />
+  <img src="https://github.com/user-attachments/assets/056633ac-35fc-483c-947c-fc018ea723cc" alt="cv8" width="49%" />
 </p>
+
+**Figure 4: a strong contextual understanding in the model that a man attacking with a gun is detected as Dangerous while a man playing with a toy gun is detected as safe**
 
 -------------------------
